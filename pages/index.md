@@ -5,7 +5,7 @@ permalink: /
 
 Exp. Candy is a set of advices and resources for PhD students. The name comes from the 'experience candies' you can get in Pokémon that help you to get experience points faster. In a similar way, the purpose of Exp. Candy is to help PhD students to level up faster.
 
-# Table of Contents
+## Table of Contents
 1. [Advices](#advices)
 2. [Resources](#resources)
 
@@ -29,6 +29,11 @@ Exp. Candy is a set of advices and resources for PhD students. The name comes fr
 - You can also have an agenda for the meeting to avoid fogetting topics you want to talk about.
 - If you wonder what is expected of a PhD from the point of view of a supervisor you can check content oriented to supervisors like [this guide](https://www.ithinkwell.com.au/ebooks/ebook-supervising-phd-students).
 
+### Productivity
+
+- 2 minutes rule: If you can do it in two minutes, do it!
+- Found your own productivity workflow. Check todoist's [blog](https://blog.doist.com/) to have a better idea about these workflows.
+
 ## Resources
 
 ### Templates
@@ -38,7 +43,5 @@ Exp. Candy is a set of advices and resources for PhD students. The name comes fr
 
 ### Tools
 
-### Programming
-
-- R packages:
+[Here](https://folk.ntnu.no/susanany/posts/tools-research-workflow/) you can read more about the tools I used during my PhD.
 
