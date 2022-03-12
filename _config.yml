@@ -24,24 +24,24 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : John Doe
+  name              : S. A.
 # image             : https://i.imgur.com/uyDNQnn.jpg
 #  behance           : your_username
 # dribbble          : your_username
   email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+# facebook          : your_username
+  github            : abc
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-  linkedin          : your_username
-  medium            : your_username
+# linkedin          : your_username
+# medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+  twitter           : susan_anyosa
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
@@ -59,15 +59,15 @@ collections:
 
 
 ### Disqus ###
-disqus:
-  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+# disqus:
+#  shortname: your-short-name-disqus                     # Your website Shortname on disqus
 
 
 ### Analytics ###
-analytics:
-  enabled: false                                        # Set true to enable analytics
-  google:
-    tracking_id: your-google-tracking-id
+#analytics:
+#  enabled: false                                        # Set true to enable analytics
+#  google:
+#    tracking_id: your-google-tracking-id
 
 
 ### Defaults for collections ###
