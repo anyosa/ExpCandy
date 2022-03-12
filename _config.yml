@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : Exp.
+title               : Exp. Candy for PhD students
 description         : A website.
 baseurl             : "/temp"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -20,13 +20,13 @@ nav_exclude:                                            # The following paths ar
 
 ### Author Info ###
 author:
-  name              : S. A.
+  name              : Susan Anyosa
 # image             : https://i.imgur.com/uyDNQnn.jpg
 #  behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
+#  email             : username@domain.com
 # facebook          : your_username
-  github            : abc
+  github            : anyosa
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
