@@ -43,5 +43,5 @@ Exp. Candy is a set of advices and resources for PhD students. The name comes fr
 
 ### Tools
 
-[Here](https://folk.ntnu.no/susanany/posts/tools-research-workflow/) you can read more about the tools I used during my PhD.
+- Find the right software and hardware for your PhD journey. [Here](https://folk.ntnu.no/susanany/posts/tools-research-workflow/) you can read more about the tools I used during my PhD.
 
