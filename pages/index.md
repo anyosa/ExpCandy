@@ -40,6 +40,7 @@ Exp. Candy is a set of advices and resources for PhD students. The name comes fr
 
 - PhD project
 - Poster
+- Research project folder
 
 ### Tools
 
