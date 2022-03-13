@@ -22,6 +22,10 @@ Exp. Candy is a set of advices and resources for PhD students. The name comes fr
 - Do not wait for inspiration.
 - You can start by something simple as *describing a figure*.
 
+### Submissions
+
+- It is always a good idea to check the submission guidelines of the journals in which you want to publish. Like [these guidelines](https://www.springer.com/journal/10596/submission-guidelines).
+
 ### Supervisor
 
 - If you schedule a meeting, prepare for it. Report results, ask questions or simply catch up with your supervisor in case personal situations should be communicated.
