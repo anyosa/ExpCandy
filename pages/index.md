@@ -56,10 +56,10 @@ Exp. Candy is a set of advices and resources for PhD students. The name comes fr
         ├── simulation
         ├── application
         └──figures
-    ├── conferences/
-    ├── publications/
     ├── notes/
     ├── diagrams/
+    ├── conferences/
+    ├── publications/
     └── sources/
     ```
 
