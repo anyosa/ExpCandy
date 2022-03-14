@@ -44,7 +44,7 @@ Exp. Candy is a set of advices and resources for PhD students. The name comes fr
 
 - PhD project
 - Poster
-- Research project directory structure: More details [here](https://folk.ntnu.no/susanany/posts/a-directory-structure-for-research-projects/).
+- Research project directory structure 📂: More details [here](https://folk.ntnu.no/susanany/posts/a-directory-structure-for-research-projects/).
 
 ```tree
     research_folder/
