@@ -3,7 +3,7 @@ layout: default
 permalink: /
 ---
 
-Exp. Candy is a set of advices and resources for PhD students. The name comes from the 'experience candies' you can get in Pokémon that help you to get experience points faster. In a similar way, the purpose of Exp. Candy is to help PhD students to level up faster.
+Exp. Candy 🍬 is a set of advices and resources for PhD students. The name comes from the 'experience candies' you can get in Pokémon that help you to get experience points faster. In a similar way, the purpose of Exp. Candy is to help PhD students to level up faster.
 
 ## Table of Contents
 1. [Advices](#advices)
