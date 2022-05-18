@@ -49,7 +49,7 @@ Exp. Candy 🍬 is a set of advices and resources for PhD students. The name com
 
 ### Templates 📜
 
-- PhD project
+- PhD research project: [A LaTeX template](https://github.com/anyosa/expcandy/blob/gh-pages/templates/template_research_project.zip).
 - Poster
 - Research project directory structure 📂: More details [here](https://folk.ntnu.no/susanany/posts/a-directory-structure-for-research-projects/).
 
