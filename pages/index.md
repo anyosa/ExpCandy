@@ -40,6 +40,11 @@ Exp. Candy 🍬 is a set of advices and resources for PhD students. The name com
 - 2 minutes rule: If you can do it in two minutes, do it!
 - Find your own productivity workflow. Check todoist's [blog](https://blog.doist.com/) to have a better idea about these workflows.
 
+### Coding 💻
+
+- First make it work. Second make it beautiful and/or run faster.
+- [Other advices about reproducible code for research](https://folk.ntnu.no/susanany/posts/tips-for-reproducible-research/).
+
 ## Resources
 
 ### Templates 📜
