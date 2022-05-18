@@ -11,6 +11,7 @@ Exp. Candy 🍬 is a set of advices and resources for PhD students. The name com
 1. [Advices](#advices)
 2. [Resources](#resources)
 
+***
 
 ## Advices
 
@@ -44,6 +45,8 @@ Exp. Candy 🍬 is a set of advices and resources for PhD students. The name com
 
 - First make it work. Second make it beautiful and/or run faster.
 - [Other advices about reproducible code for research](https://folk.ntnu.no/susanany/posts/tips-for-reproducible-research/).
+
+***
 
 ## Resources
 
