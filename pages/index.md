@@ -15,11 +15,11 @@ Exp. Candy 🍬 is a set of advices and resources for PhD students. The name com
 
 ## Advices
 
-### Reading papers 📑
+#### Reading papers 📑
 
 - You do not need to read the whole paper always. Check this if you are interested in [how to read a paper](https://dl.acm.org/doi/pdf/10.1145/1273445.1273458?casa_token=hFk2RjmkH50AAAAA:M4XqTF39CjM8F0jmrvyCncElNysNE8bfm-KcAOGzTEjh1UvJO3e3PkfyqZbLxAqXozcJEFFq3K4).
 
-### Writing ✍️
+#### Writing ✍️
 
 - Bad writing is better than no writing. 
 - Do not wait for inspiration.
@@ -39,6 +39,8 @@ Exp. Candy 🍬 is a set of advices and resources for PhD students. The name com
 ### Productivity 📈
 
 - 2 minutes rule: If you can do it in two minutes, do it!
+- Write your tasks in a to-do list. This can help to 'declutter' your mind if you have many things to do.
+- Sometimes the best thing you can do is rest.
 - Find your own productivity workflow. Check todoist's [blog](https://blog.doist.com/) to have a better idea about these workflows.
 
 ### Coding 💻
