@@ -7,13 +7,14 @@ Exp. Candy 🍬 is a set of advices and resources for PhD students. The name com
 
 ***
 
-## Table of Contents
+### Table of Contents
+
 1. [Advices](#advices)
 2. [Resources](#resources)
 
 ***
 
-## Advices
+### Advices
 
 #### Reading papers 📑
 
@@ -25,34 +26,34 @@ Exp. Candy 🍬 is a set of advices and resources for PhD students. The name com
 - Do not wait for inspiration.
 - You can start by something simple as *describing a figure*.
 
-### Submissions 📄
+#### Submissions 📄
 
 - It is always a good idea to check the submission guidelines of the journals in which you want to publish. Like [these guidelines](https://www.springer.com/journal/10596/submission-guidelines).
 
-### Supervisor 🧙
+#### Supervisor 🧙
 
 - If you schedule a meeting, prepare for it. Report results, ask questions or simply catch up with your supervisor in case personal situations should be communicated.
 - When I want to report new results or have a question that is difficult to 'visualize' I prepare plots. These plots help with the communication of these ideas.
 - You can also have an agenda for the meeting to avoid forgetting topics you want to talk about.
 - If you wonder what is expected of a PhD from the point of view of a supervisor you can check content oriented to supervisors like [this guide](https://www.ithinkwell.com.au/ebooks/ebook-supervising-phd-students).
 
-### Productivity 📈
+#### Productivity 📈
 
 - 2 minutes rule: If you can do it in two minutes, do it!
 - Write your tasks in a to-do list. This can help to 'declutter' your mind if you have many things to do.
 - Sometimes the best thing you can do is rest.
 - Find your own productivity workflow. Check todoist's [blog](https://blog.doist.com/) to have a better idea about these workflows.
 
-### Coding 💻
+#### Coding 💻
 
 - First make it work. Second make it beautiful and/or run faster.
 - [Other advices about reproducible code for research](https://folk.ntnu.no/susanany/posts/tips-for-reproducible-research/).
 
 ***
 
-## Resources
+### Resources
 
-### Templates 📜
+#### Templates 📜
 
 - PhD research project: [A LaTeX template](https://github.com/anyosa/expcandy/blob/gh-pages/templates/template_research_project.zip).
 - Poster: [A LaTeX template](https://github.com/anyosa/expcandy/blob/gh-pages/templates/template_poster.zip).
@@ -74,7 +75,7 @@ Exp. Candy 🍬 is a set of advices and resources for PhD students. The name com
     └── journals/
 ```
 
-### Tools 🧰
+#### Tools 🧰
 
 - Find the right software and hardware for your PhD journey. [Here](https://folk.ntnu.no/susanany/posts/tools-research-workflow/) you can read more about the tools I used during my PhD.
 
